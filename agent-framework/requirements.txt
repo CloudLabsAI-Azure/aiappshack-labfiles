@@ -1,0 +1,6 @@
+azure-ai-projects --pre
+azure-identity
+openai
+python-dotenv
+ipykernel
+jupyter
